@@ -21,6 +21,17 @@
       "cost": 0,
       "services": [],
       "id": 5
+    },
+    {
+      "name": "Projeto de Tips ",
+      "budget": "60001",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
